@@ -1,0 +1,734 @@
+{
+    "352335034": {
+        "currency_pair": {
+            "EXM_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_GBP": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "EOS_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "LTC_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "TRX_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "ADA_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ADA_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "ADA_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "ALGO_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ALGO_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "ALGO_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "ALGO_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "ATOM_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ATOM_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "ATOM_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_GBP": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "BCH_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_PLN": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_TRY": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_KZT": {
+                "min": 0,
+                "max": 0
+            },
+            "BTG_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "BTG_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "BTT_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "BTT_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "BTT_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "CHZ_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "CRON_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "CRON_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "CRON_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "DAI_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "DAI_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "DAI_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "DAI_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "DASH_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "DASH_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "DASH_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "DASH_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "DASH_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "DCR_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "DCR_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "DCR_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "DOGE_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "DOGE_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "EOS_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "EOS_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ETC_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "ETC_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "ETC_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_GBP": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_PLN": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_KZT": {
+                "min": 0,
+                "max": 0
+            },
+            "ETH_LTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ETZ_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ETZ_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "ETZ_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "EXM_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "EXM_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "GAS_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "GAS_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "GNT_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "GNT_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "GUSD_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "GUSD_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "GUSD_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "IQN_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "IQN_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "HAI_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "HP_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "HB_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "LINK_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "LSK_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "LSK_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "LSK_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "LTC_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "LTC_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "LTC_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "LTC_GBP": {
+                "min": 0,
+                "max": 0
+            },
+            "LTC_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "MKR_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "MKR_DAI": {
+                "min": 0,
+                "max": 0
+            },
+            "MNC_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "MNC_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "MNC_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "NEO_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "NEO_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "NEO_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "OMG_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "OMG_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "OMG_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "ONE_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ONG_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ONG_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "ONG_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "ONT_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ONT_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "ONT_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "PRQ_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "PRQ_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "PTI_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "PTI_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "QTUM_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "QTUM_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "QTUM_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "ROOBEE_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "SGR_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "SGR_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "SMART_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "SMART_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "SMART_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "SMART_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "TRX_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "TRX_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "TRX_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "TRX_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "UNI_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "USDC_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "USDC_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "USDC_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "USDC_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "USDT_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "USDT_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "USDT_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "USDT_GBP": {
+                "min": 0,
+                "max": 0
+            },
+            "USDT_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "USDT_KZT": {
+                "min": 0,
+                "max": 0
+            },
+            "VLX_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "WAVES_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "WAVES_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "WAVES_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "WAVES_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "WXT_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "XEM_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "XEM_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "XEM_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "XEM_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "XLM_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "XLM_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "XLM_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "XMR_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "XMR_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "XMR_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "XMR_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "XMR_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "XMR_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_UAH": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_GBP": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_USDT": {
+                "min": 0,
+                "max": 0
+            },
+            "XRP_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "XTZ_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "XTZ_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "XTZ_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "YFI_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ZEC_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "ZEC_RUB": {
+                "min": 0,
+                "max": 0
+            },
+            "ZEC_EUR": {
+                "min": 0,
+                "max": 0
+            },
+            "ZEC_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ZRX_USD": {
+                "min": 0,
+                "max": 0
+            },
+            "ZRX_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "ZRX_ETH": {
+                "min": 0,
+                "max": 0
+            },
+            "ZAG_BTC": {
+                "min": 0,
+                "max": 0
+            },
+            "BTC_ETH": {
+                "min": 0,
+                "max": 0
+            }
+        }
+    }
+}
