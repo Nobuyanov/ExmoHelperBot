@@ -22,5 +22,4 @@ def reciveJsonTickerData():
         last_trade.update({"BTC_ETH" : str(1 / float(tickerData["ETH_BTC"]["last_trade"]))})
         with open('prices.json', 'w', encoding='utf-8') as f:
             json.dump(last_trade, f, ensure_ascii=False, indent=4)
-        print(last_trade)
 

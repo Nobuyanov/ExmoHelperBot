@@ -7,7 +7,7 @@
             },
             "BTC_USD": {
                 "min": 0,
-                "max": 0
+                "max": 12345.0
             },
             "BTC_EUR": {
                 "min": 0,
@@ -729,6 +729,8 @@
                 "min": 0,
                 "max": 0
             }
-        }
+        },
+        "alert_set": 3,
+        "alert_count": 0
     }
 }
